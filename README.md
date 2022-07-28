@@ -18,7 +18,7 @@
 </p>
 
 ### Get in touch 📱
-<a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/urjaswee-chatterjee-994312202/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
 <a href="https://twitter.com/deepdhar2000"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
 
 [![Urjaswee's github stats](https://github-readme-stats.vercel.app/api?username=UrjasweeChatterjee&show_icons=true&theme=algolia)](https://github.com/deepdhar?tab=repositories)
