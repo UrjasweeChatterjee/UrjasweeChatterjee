@@ -1,3 +1,5 @@
+<img alt="banner" src="https://user-images.githubusercontent.com/109411850/181587239-162c3736-2200-4465-9df3-8dff57321cb4.png" />
+
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
